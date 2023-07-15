@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Sprig Boot**
 
-- 👨‍💻 All of my projects are available at my **GitHub Account
+- 👨‍💻 All of my projects are available at my **GitHub Account.**
 
 - 💬 Ask me about **html , css , javascript , react js , java , spring boot , jpa.**
 
